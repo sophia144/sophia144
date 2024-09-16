@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sophia144
-- 👀 I’m interested in AI and Data Science
-- 🌱 Data Analyst Degree Apprenticeship (in progress)
+- 👀 I’m interested in **AI and Data Science**
+- 🌱 Data Analytics Degree Apprenticeship _in progress_
 
 <!---
 sophia144/sophia144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
