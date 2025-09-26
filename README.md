@@ -1,7 +1,7 @@
 <h2> 👩&nbsp;About Me</h2>
-- 👋 Hi, I’m Sophia  
-- 👀 I’m interested in **AI and Data Science**  
-- 🌱 Data Analytics Degree Apprenticeship in progress  
+- 👋 Hi, I’m Sophia  <br>
+- 👀 I’m interested in **AI and Data Science**  <br>
+- 🌱 Data Analytics Degree Apprenticeship in progress <br> 
 
 <!---
 sophia144/sophia144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
