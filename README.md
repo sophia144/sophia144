@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="45" height="45"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrCQEawi17ptwq11DFEOh6T5FXPOItsfcYQQ&s" alt="alteryx" width="45" height="45"/>
+<img src="https://cdn.prod.website-files.com/644a94aaaeec240c4015a0d1/66ce54c00addf69f9406ffeb_alteryx-logo-9716FE6A39-seeklogo.com.png" alt="alteryx" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power bi" width="45" height="45"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOzVBv0YUgqIIf0qJXBZEYhFSakz-G22WA&s" alt="sql" width="45" height="45"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-hCy-Ey_FsARYnWnat6STTr2ILQHIHQdAbw&s" alt="databricks" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/512/10630/10630268.png" alt="sql" width="45" height="45"/>
+<img src="https://www.cegeka.com/hubfs/databricks-logo-1.png?width=500&name=databricks-logo-1.png" alt="databricks" width="45" height="45"/>
 </p>
