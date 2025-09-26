@@ -1,7 +1,7 @@
 <h2> 👩&nbsp;About Me</h2>
 <p>
 - 👋 Hi, I’m Sophia  <br>
-- 👀 I’m interested in **AI and Data Science**  <br>
+- 👀 I’m interested in AI and Data Science  <br>
 - 🌱 Data Analytics Degree Apprenticeship in progress <br> 
 </p>
 
