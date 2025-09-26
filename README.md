@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sophia144
+- 👋 Hi, I’m Sophia
 - 👀 I’m interested in **AI and Data Science**
 - 🌱 Data Analytics Degree Apprenticeship _in progress_
 
