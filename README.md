@@ -17,3 +17,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn-icons-png.flaticon.com/512/10630/10630268.png" alt="sql" width="45" height="45"/>
 <img src="https://www.cegeka.com/hubfs/databricks-logo-1.png?width=500&name=databricks-logo-1.png" alt="databricks" width="45" height="45"/>
 </p>
+
+<sub><sup>Bio layout inspired by https://github.com/thepiyushmalhotra</sup></sub>
